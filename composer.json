@@ -1,0 +1,8 @@
+{
+    "name": "dr-ubin/google-visualization-php",
+	"autoload": {
+		"psr-0": {
+			"Google\\Visualization\\DataSource\\": "/"
+		}
+	}
+}
